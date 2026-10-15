@@ -13,16 +13,16 @@ Manisa Celal Bayar Üniversitesi'nde **Veri Bilimi ve Analitiği** okuyorum.
 
 ### 🎯 İlgi Alanlarım
 
-- ✍️ **Yazı yazmak:**
-- 🖥️ **Bilgisayar parçaları:**
-- 🤖 **Yapay zeka:**
-- 🧩 **Zeka oyunları:**
-- 📚 **Felsefe:**
+- ✍️ **Yazı yazmak**
+- 🖥️ **Bilgisayar parçaları**
+- 🤖 **Yapay zeka**
+- 🧩 **Zeka oyunları**
+- 📚 **Felsefe**
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Talatberke&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talatberke&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 
